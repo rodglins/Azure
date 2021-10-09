@@ -1,0 +1,6 @@
+selected resource name:		CopyPipeline
+selected resource type:		pipeline
+data factory name:			rodglinsADFTutorialDataFactory
+data factory location:		centralus
+subscription id:		e39fb382-5b58-4e95-baf1-fb3ad98826b0
+time of download (UTC):		Wed, 06 Oct 2021 19:25:37 GMT

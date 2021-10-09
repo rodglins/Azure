@@ -1,0 +1,3 @@
+SEP=,
+NOME,TIPO,ASSINATURA,GRUPO DE RECURSOS,LOCALIZAÇÃO,
+"rodglinsADFTutorialDataFactory","Data factory (V2)","Assinatura do Azure 1","networkwatcherrg","EUA Central"
